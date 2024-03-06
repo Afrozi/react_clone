@@ -1,0 +1,211 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.image-logo{
+    width: 50%;
+}
+.navbar {
+    display: flex;
+    overflow: hidden;
+    padding:   10px 0px 10px 1%;
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0px 0px 0px 0px;
+}
+li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Lato", sans-serif;
+    color: white;
+    padding: 10px 44px 0px 0px;
+    
+}
+.btn{
+    padding: 3px 0px 0px 25px;
+}
+.contact{
+    padding: 9px 35px 10px 25px;
+    border: none;
+    border-radius: 20px;
+    font-family: "Lato", sans-serif;
+    font-size: 20px;
+    color: rgba(34, 34, 104, 0.7);
+}
+.home{
+    background: rgba(0, 0, 255, 0.5) url("https://heterodoxacademy.org/images/The-Problem-with-Student-Centered-Education_Facebook-1024x538.png?auto=compress,format&fit=crop&q=80&crop=faces&w=480&h=268&dpr=1.25");
+    height: 100%;
+    padding: 0px 0px 15% 0px;
+    background-size: cover;
+    background-blend-mode:darken;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.center-div{
+    padding: 10% 0px 0px 0px;
+    color: white;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.header{
+    font-size: 50px;
+    font-family: "Lato", sans-serif;
+    flex-wrap: wrap;
+}
+.text-center{
+    padding: 30px 0px 50px 0px;
+    font-size: 20px;
+    font-family: "Lato", sans-serif;
+    flex-wrap: wrap;
+}
+.button{
+    padding: 0px 92px 0px 0px;
+}
+.btns{
+    font-size: 20px;
+    font-family: "Lato", sans-serif;
+    padding: 9px 35px 10px 25px;
+     background-color: white;
+     border: none;
+     border-radius: 20px;
+}
+.afroz-head{
+    padding: 5% 0px 0px 0px;
+    flex-wrap: wrap;
+}
+.course{
+    font-size: 20px;
+    font-family: "Lato", sans-serif;
+}
+.lorem{
+    font-size: 40px;
+    font-family: "Lato", sans-serif;
+}
+.course,.lorem{
+    text-align: center;
+   margin: 10px;
+   flex-wrap: wrap;
+}
+.main-div-card{
+    display: flex;
+    padding: 40px 100px 60px 100px;
+}
+.main-div-mobile{
+  display: flex;
+  padding: 30px 50px 0px 50px;
+}
+.second1{
+    margin: 10px;
+    flex-wrap: wrap;
+}
+.second1 img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.main-blog{
+    display: flex;
+    /* padding: 40px; */
+    padding: 50px 0px 0px 100px;
+}
+.blog-articale{
+    padding: 0px 20% 0px 0px;
+    margin-left: 40px;
+    flex-wrap: wrap;
+}
+.blog-image{
+    width: 30%;
+    border-radius: 20px;
+}
+.playlist{
+    font-size: 20px;
+    padding: 10px;
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+    flex-wrap: wrap;
+}
+.campus{
+    margin-top: 2.5rem;
+}
+.play{
+    font-size: 18px;
+}
+.fashion{
+    display: flex;
+}
+.four1{
+    display: flex;
+}
+.image-icon img{
+    width: 80px;
+    border-radius: 50%;
+}
+.fashion{
+    padding: 0px 10% 0px 10%;
+}
+.four1{
+    font-family: "Lato", sans-serif;
+    background-color:rgba(255, 255, 255, 0.9);
+    border: none;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+    flex-wrap: wrap;
+    letter-spacing: normal;
+    border-radius: 10px;
+    text-align: center;
+}
+.style{
+    background-color: rgba(243, 244, 245, 0.903);
+}
+
+/*  */
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-contant{
+    text-align: start;
+    padding: 0px 0px 0px 4%;
+}
+.input-data{
+    padding: 10px 0px 0px 0px;
+}
+.input-data input{
+    font-family: "Lato", sans-serif;
+    padding: 10px ;
+    border: none;
+    width: 100%;
+    box-shadow: 2px 2px 10px black;
+    border-radius: 5px;
+}
+.input-data textarea{
+    font-family: "Lato", sans-serif;
+    border: none;
+    box-shadow: 2px 2px 10px black;
+    font-size: 16px;
+    width: 100%;
+    border-radius: 5px;
+}
+/*  */
+.image-photo{
+    padding: 0px 0px 0px 12%;
+}
+.image-photo img{
+   height: 220px;
+   border-radius: 5px;
+    
+}
+
+/*  */
+.button{
+    padding: 10px 0px 0px 44%;
+}

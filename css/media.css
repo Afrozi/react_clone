@@ -1,0 +1,55 @@
+@media only screen and (max-width: 1250px) {
+     .navbar{
+        display: flex;
+        flex-direction: column;
+     }
+     .main-div-mobile{
+        display: flex;
+        flex-direction: column;
+     }
+     .main-blog{
+        display: flex;
+        flex-direction: column;
+        padding: 50px 0px 0px 50px;
+     }
+     .blog-image{
+        width: 80%;
+        border-radius: 20px;
+    }
+    .fashion{
+        display: flex;
+        flex-direction: column;
+    }
+    .btns{
+        font-size: 10px;
+        padding-left: -200px;
+    }
+    .main-container{
+        display: flex;
+        flex-direction: column;
+    }
+    .blog-articale{
+      margin-left: 0px;
+    }
+    .button{
+        padding: 10px 0px 0px 30%;
+    }
+  }
+
+  @media only screen and (max-width: 800px) {
+    ul{
+        display: flex;
+        flex-direction: column;
+     }
+    
+  
+   /* input{
+    display: flex;
+    width: 100%;
+   }
+   .input-data textarea{
+    width: 100%;
+   } */
+  }
+ 
+ 
